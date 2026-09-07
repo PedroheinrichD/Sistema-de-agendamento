@@ -198,7 +198,7 @@ export default function Painel() {
               {saudacao},
             </p>
             <h1 className="mt-1 font-serif text-4xl font-light text-[#1c1917]">
-              Caroline
+              Seu Nome
             </h1>
           </div>
           <Link

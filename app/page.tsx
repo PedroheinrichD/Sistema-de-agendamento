@@ -199,7 +199,7 @@ async function Page() {
         </button>
 
         <h1 className="font-serif text-[18px] tracking-[0.15em] uppercase text-on-surface lg:text-[30px]">
-          Caroline
+          Studio Bella
         </h1>
 
         <Link
@@ -230,7 +230,7 @@ async function Page() {
         </span>
 
         <h2 className="font-serif text-[36px] text-on-surface leading-[1.1] mb-5 ">
-          Caroline
+          Studio Bella
           <br />
           Beleza & Estética
         </h2>
@@ -300,7 +300,7 @@ async function Page() {
       {/* ─── Footer ─────────────────────────────────────────────── */}
       <footer className="bg-surface-container px-5 py-12 text-center">
         <h3 className="font-serif text-[20px] tracking-[0.12em] uppercase text-on-surface mb-6">
-          Caroline
+          Studio Bella
         </h3>
 
         <p className="font-label text-[11px] text-outline">
