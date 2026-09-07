@@ -21,6 +21,13 @@ export const auth = betterAuth({
     queueLimit: 0,
   }),
 
+  baseURL: process.env.BETTER_AUTH_URL,
+
+  trustedOrigins: [
+    "http://localhost:3000",
+    "https://caroline-manicure.vercel.app",
+  ],
+
   emailAndPassword: {
     enabled: true,
     disableSignUp: true,
