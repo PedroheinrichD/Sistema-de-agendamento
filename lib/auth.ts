@@ -30,7 +30,7 @@ export const auth = betterAuth({
 
   emailAndPassword: {
     enabled: true,
-    disableSignUp: true,
+    
   },
 
   plugins: [
